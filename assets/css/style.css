@@ -1,0 +1,146 @@
+/* * {
+    color: greenyellow;
+} */
+
+
+/* h1 {
+    color: red;
+} */
+
+
+/* .text {
+    color: aqua;
+} */
+
+
+/* .paragraph.wrap {
+    color: blueviolet;
+} */
+
+
+/* .wrapper .text {
+    color: chocolate;
+} */
+
+
+/* 
+#textSpan {
+    color: cyan;
+} */
+
+
+/* p {
+    color: darkkhaki;
+} */
+
+
+/* p.wrap {
+    color: yellow;
+} */
+
+
+/* div,
+p {
+    color: red;
+} */
+
+
+/* .wrap,
+#textSpan {
+    color: green;
+} */
+
+
+/* div h1 {
+    background-color: red;
+} */
+
+
+/* .wrapper>.text {
+    color: red;
+} */
+
+
+/* .wrapper+.wrap {
+    color: hotpink;
+} */
+
+
+/* 
+.wrap~p {
+    color: khaki;
+} */
+
+
+/* [id] {
+    color: red;
+} */
+
+
+/* [class=paragraph] {
+    color: red;
+} */
+
+
+/* [class~=paragrap] {
+    color: red;
+} */
+
+
+/* 
+[class^=wrapp] {
+    color: red;
+}
+
+[class$=wrap] {
+    color: lawngreen;
+} */
+
+
+/* [class*=gra] {
+    color: red;
+} */
+
+
+/* .xalodni::after {
+    content: 'this is the after text';
+}
+
+.xalodni::before {
+    content: 'this is the before text';
+} */
+
+
+/* .text:last-child {
+    color: red;
+} */
+
+
+/* p::first-letter {
+    font-size: 50px;
+} */
+
+
+/* p::first-line {
+    background-color: red;
+} */
+
+
+/* p:first-of-type {
+    color: red;
+} */
+
+
+/* p:hover {
+    background-color: blueviolet;
+    font-size: 50px;
+} */
+
+
+/* p:not(.wrap) {
+    color: red;
+} */
+
+div:nth-child(even) {
+    color: red;
+}
